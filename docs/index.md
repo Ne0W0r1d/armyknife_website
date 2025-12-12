@@ -1,8 +1,4 @@
 # 首页
-<h1 style="text-align: center;">Cipher Tools（原名瑞士军刀） x Rana Toolkit</h1>
-<div align="center">
-<img src="img/CipherTools_NameIco.png" alt="Logo" width="300" height="360">
-</div>
 
 ## Cipher Tools 简介
 
@@ -49,13 +45,22 @@ Rana Toolkit 项目[传送门请前往](#rana-toolkit)<br>
 | **Astra（耀嘉音）** | **0.4_AKTools.astra.alpha.[builddate]** | **Alpha-Re-工具** |
 
 ## Rana Toolkit 传送门
+
 [Github](https://github.com/Ne0W0r1d/Rana_Toolkit) <br>
 [Codeberg](https://codeberg.org/Ne0W0r1d/Rana_ToolKit) <br>
 [Gitee](https://gitee.com/Ne0W0r1d/Rana_Toolkit) <br>
 [CNB](https://github.com/Ne0W0r1d/Rana_Toolkit) <br>
 
 ## Cipher Tools 传送门
+
 [Github](https://github.com/Ne0W0r1d/Cipher_Tools) <br>
 [Codeberg](https://codeberg.org/Ne0W0r1d/Cipher_Tools) <br>
 [Gitee](https://gitee.com/Ne0W0r1d/Cipher_Tools) <br>
 [CNB](https://github.com/Ne0W0r1d/Cipher_Tools) <br>
+
+## AI 
+
+本项目含有部分 AIGC 代码，但本人会经过测试实验并因此学习改
+
+## 项目基建鸣谢
+[腾讯 EdgeOne](https://edgeone.ai/zh)
