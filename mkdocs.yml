@@ -1,0 +1,40 @@
+site_name: Cipher Tools x Rana Toolkit 官方文档
+site_url: https://ct.ne0w0r1d.top
+repo_url: https://cnb.cool/neoengine_dev/Cipher_Tools
+repo_name: Ne0W0r1d/Army_Knife
+theme:
+  name: material
+  language: zh
+  icon:
+    logo: img/favicon.png
+  features:
+    - palette.toggle
+    - content.code.copy
+  favicon: img/favicon.ico
+
+  palette:
+    # 浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Deep♂Dark♂Fantasy♂
+
+    # 深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: \O/
+  icon:
+    repo: material/source-repository
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/akass-org/Army_Knife
+      name: GitHub 仓库
